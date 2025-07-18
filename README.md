@@ -4,13 +4,13 @@ A secure PHP web application with form validation, role-based user access, and p
 
 A secure PHP-based web application that includes:
 
-- ✅ Prepared statements using PDO (protection from SQL injection)
-- ✅ Server-side and client-side form validation
-- ✅ User roles and role-based access control (e.g., Admin, Editor)
+-  Prepared statements using PDO (protection from SQL injection)
+- Server-side and client-side form validation
+-  User roles and role-based access control (e.g., Admin, Editor)
 
 ---
 
-## 📌 Features
+## Features
 
 - **User Authentication** – Login and registration with secure password handling  
 - **Prepared Statements** – All database queries use PDO for safe execution  
@@ -22,7 +22,7 @@ A secure PHP-based web application that includes:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 students/
 │
